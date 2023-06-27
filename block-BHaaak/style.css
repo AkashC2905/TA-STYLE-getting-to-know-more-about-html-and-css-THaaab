@@ -1,0 +1,10 @@
+img{
+    display: block;
+} 
+a{
+    color: rgb(40,75,251);
+}
+.footer-btn{
+    color: black;
+    background-color: rgb(107,142,35);
+}
